@@ -5,21 +5,19 @@ As a **fresher**, I'm eager to dive deep into the world of **data-driven solutio
 
 ---
 
-## 🌱 I've completed:
-- Advanced Python and SQL
-- C 
-- DSA in C++
-- Advanced Java
-- Web Development (MERN Stack)
-- Git & GitHub (Version Control)
+## 🧩 I've completed:
+- ✅ Advanced Java Applications  
+- ✅ Full MERN Stack  
+- ✅ DSA Problem Solving in C++  
+- ✅ Version Control with Git & GitHub
 
 ---
 
 ## 🔭 I'm Currently Exploring:
-- Advanced concepts in Machine Learning & Deep Learning
-- Backend Development with Node.js & Express
-- System Design and Scalable Architectures
-- Competitive Programming and Data Structures
+- 🔬 Machine Learning & Deep Learning
+- 🧱 System Design
+- ⚙️ Backend Development (Node.js + Express)
+- 🧩 Competitive Programming (DSA with C++)
 
 ---
 
@@ -79,12 +77,14 @@ As a **fresher**, I'm eager to dive deep into the world of **data-driven solutio
 
 ---
 
-_Thanks for visiting my profile! 😊_
+## 🐍 Watch my contributions get eaten by a snake!
+
+   ![snake gif](https://github.com/rk0010dev/rk0010dev/blob/output/github-snake-dark.svg)
 
 
----
+<p align="center">
+  Thanks for stopping by! ⭐️<br/>
+  <i>“Code. Build. Repeat.”</i>
+</p>
 
-## 🐍 Watch My Contributions Get Eaten by a Snake!
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 
