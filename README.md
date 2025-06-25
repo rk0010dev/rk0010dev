@@ -81,3 +81,9 @@ As a **fresher**, I'm eager to dive deep into the world of **data-driven solutio
 
 _Thanks for visiting my profile! 😊_
 
+
+<!-- Snake -->
+<div align="center">
+  ![snake gif](https://github.com/rk0010dev/rk0010dev/blob/output/github-snake-dark.svg) 
+
+</div>
