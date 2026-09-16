@@ -8,7 +8,7 @@ As a **fresher**, I'm eager to dive deep into the world of **data-driven solutio
 ## 🧩 I've completed:
 - ✅ Advanced Java Applications  
 - ✅ Full MERN Stack  
-- ✅ DSA Problem Solving in C++  
+- ✅ DSA Problem Solving in Java  
 - ✅ Version Control with Git & GitHub
 
 ---
@@ -17,7 +17,7 @@ As a **fresher**, I'm eager to dive deep into the world of **data-driven solutio
 - 🔬 Machine Learning & Deep Learning
 - 🧱 System Design
 - ⚙️ Backend Development (Node.js + Express)
-- 🧩 Competitive Programming (DSA with C++)
+- 🧩 Competitive Programming (DSA with Java)
 
 ---
 
